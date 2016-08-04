@@ -1,0 +1,46 @@
+_repo: The-Sketch-Book-of-Geoffrey-Crayon_2048
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Irving, Washington
+    alias: Crayon, Geoffrey
+    birthdate: 1783
+    deathdate: 1859
+    gutenberg_agent_id: '34'
+    url: http://www.gutenberg.org/2009/agents/34
+    wikipedia: http://en.wikipedia.org/wiki/Washington_Irving
+description: The Sketch Book of Geoffrey Crayon, commonly referred to as The Sketch
+  Book, is a collection of 34 essays and short stories written by Washington Irving.
+  Published serially throughout 1819 and 1820, the collection includes two of Irving's
+  best-known works, "The Legend of Sleepy Hollow" and "Rip Van Winkle." It also marks
+  Irving's first use of the pseudonym "Geoffrey Crayon," which he would continue to
+  employ throughout his literary career. The Sketch Book, along with James Fenimore
+  Cooper's Leatherstocking Tales, was the first widely read work of American literatu.
+gutenberg_issued: '2000-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2048'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Irving, Washington, 1783-1859 -- Travel -- England'
+- !lcsh 'Hudson River Valley (N.Y. and N.J.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Fantasy fiction, American'
+- !lcsh 'Americans -- England -- History -- 19th century'
+- !lcsh 'Catskill Mountains Region (N.Y.) -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century'
+- GITenberg
+tableOfContents: The author's account of himself -- The voyage -- Roscoe -- The wife
+  -- Rip Van Winkle -- English writers on America -- Rural life in England -- The
+  broken heart -- The art of book-making -- A royal poet -- The country church --
+  The widow and her son -- A Sunday in London -- The Boar's Head Tavern, Eastcheap
+  -- The mutability of literature -- Rural funerals -- The inn kitchen -- The spectre
+  bridegroom -- Westminster Abbey -- Christmas -- The stage-coach -- Christmas Eve
+  -- Christmas Day -- The Christmas dinner -- London antiques -- Little Britain --
+  Stratford-on-Avon -- Traits of Indian character -- Philip of Pokanoket -- John Bull
+  -- The pride of the village -- The angler -- The legend of Sleepy Hollow -- L'envoy.
+title: The Sketch-Book of Geoffrey Crayon
+url: http://www.gutenberg.org/ebooks/2048
