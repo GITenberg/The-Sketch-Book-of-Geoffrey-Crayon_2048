@@ -1,5 +1,8 @@
 _repo: The-Sketch-Book-of-Geoffrey-Crayon_2048
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 2048-h/images/cover.jpg
 creator:
   author:
     agent_name: Irving, Washington
@@ -16,6 +19,8 @@ description: The Sketch Book of Geoffrey Crayon, commonly referred to as The Ske
   Irving's first use of the pseudonym "Geoffrey Crayon," which he would continue to
   employ throughout his literary career. The Sketch Book, along with James Fenimore
   Cooper's Leatherstocking Tales, was the first widely read work of American literatu.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2048#The-Sketch-Book-of-Geoffrey-Crayon
 gutenberg_issued: '2000-01-01'
 gutenberg_type: Text
 identifiers:
